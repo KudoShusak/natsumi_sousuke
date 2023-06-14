@@ -20,4 +20,4 @@ To create a public link, set `share=True` in `launch()`.
 ```
 
 ## Licenese
-[The MIT license](LICENSE.txt)
+[The MIT license](LICENSE)
