@@ -11,7 +11,7 @@ https://huggingface.co/rinna/japanese-gpt-neox-3.6b をクローンしたディ�
 % python natsumi_sousuke.py
 ```
 
-下記のようなメッセージが表示されたら、表示されたURL（下記の例では http://127.0.0.1:7860）をWebブラウザで開くとGUIが使えます。
+下記のようなメッセージが表示されたら、表示されたURL（下記の例では `http://127.0.0.1:7860`）をWebブラウザで開くとGUIが使えます。
 ```
 ### 奈津美・宗介(rinna/japanese-gpt-neox-3.6bバージョン) .....
 Running on local URL:  http://127.0.0.1:7860
